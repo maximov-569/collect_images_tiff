@@ -1,0 +1,6 @@
+venv
+.env
+.env.bak
+Dockerfile
+.gitignore
+.git
